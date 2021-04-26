@@ -1,0 +1,4 @@
+name=input("Enter your name ")
+age=int(input("Enter your age "))
+p=float(input("enter your 12th percentage "))
+print("Hello Mr/Mrs {} \n Your age and 12th percentage are {} and {}. hence you are elideble for our job".format(name,age,p))
