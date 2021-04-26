@@ -1,0 +1,6 @@
+#age calculator
+import datetime
+age=int(input("Enter your bitrh year : "))
+now = datetime.datetime.now()
+print("Your age is ",now.year-age) 
+
